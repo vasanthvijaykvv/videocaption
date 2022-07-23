@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/videocaption/static/css/main.0e18ebc2.css",
+    "main.js": "/videocaption/static/js/main.1a944e53.js",
+    "static/js/787.98dd0c15.chunk.js": "/videocaption/static/js/787.98dd0c15.chunk.js",
+    "static/media/samplevideo.mp4": "/videocaption/static/media/samplevideo.bc617b05cc2b902e791d.mp4",
+    "index.html": "/videocaption/index.html",
+    "main.0e18ebc2.css.map": "/videocaption/static/css/main.0e18ebc2.css.map",
+    "main.1a944e53.js.map": "/videocaption/static/js/main.1a944e53.js.map",
+    "787.98dd0c15.chunk.js.map": "/videocaption/static/js/787.98dd0c15.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e18ebc2.css",
+    "static/js/main.1a944e53.js"
+  ]
+}
